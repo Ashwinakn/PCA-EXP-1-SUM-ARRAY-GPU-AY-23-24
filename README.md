@@ -1,5 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
 **Name: ASHWINA K N** 
+
 **Register Number: 212223230025** 
 <h3>EX. NO: 01</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
